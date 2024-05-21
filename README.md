@@ -13,10 +13,10 @@ Esplora il repository e contribuisci al progetto. Per maggiori dettagli su ciasc
 
 ## Codici
 
-| Nome  | Descrizione 2 | Link a GEE |
+| Nome  | Descrizione | Link a GEE |
 |-----------|-----------|-----------|
-| 01 Sahel Boundaries  | In questo codice JS per GEE sono descritti i vari passaggi per ricavare i confini dell'area del Sahel basandosi sulle isoiete  | https://code.earthengine.google.com/c25b86da88e920bd6f18ffae337fff51|
-| Record 2  | Valore 2  |Valore 2  |
+| 01 Sahel Boundaries  | In questo codice JS per GEE sono descritti i vari passaggi per ricavare i confini dell'area del Sahel basandosi sulle isoiete  | [Boundaries](https://code.earthengine.google.com/c25b86da88e920bd6f18ffae337fff51)|
+| 02 Rusle  | Codice JS che calcola l'indice RUSLE per il Sahel  |[Rusle](https://code.earthengine.google.com/7e70747aee11c140cf65903b311df185)  |
 | Record 3  | Valore 3  |Valore 2  |
 | Record 4  | Valore 4  |Valore 2  |
 | Record 5  | Valore 5  |Valore 2  |
